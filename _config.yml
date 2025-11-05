@@ -1,0 +1,8 @@
+title: Prism
+tagline: Lens flare editor for Unreal Engine.
+description: Prism Lens flare editor blog website.
+baseurl: "/PrismBlog" # the subpath of your site, e.g. /blog
+url: "https://t-boons.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+theme: minima
