@@ -3,7 +3,7 @@ layout: default
 title: Prism - Documentation
 ---
 # Prism Lens-Flare renderer.
-Prism is a lens flare editor plugin that allows the user to create customized lens-flares inside of Unreal Engine 5. The plugin improves the existing Lens-Flare rendering post-process and allows for more visual and creative freedom. In this blog I will go over some of the systems and things I have learned throughout the creation of this plugin.\
+Prism is a lens flare editor plugin that allows the user to create customized lens-flares inside of Unreal Engine 5. The plugin improves the existing Lens-Flare rendering post-process and allows for more visual and creative freedom. In this blog I will go over some of the systems and things I have learned throughout the creation of this plugin.
 
 *Screenshot of the plugin in action*
 ![](assets/Showcase1.gif)
